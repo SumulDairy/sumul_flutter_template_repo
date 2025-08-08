@@ -1,0 +1,110 @@
+name: sumul_transport
+description: "sumul transporter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter  
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  http: ^1.4.0
+  shared_preferences: ^2.5.3
+  velocity_x: ^4.3.1
+  flutter_screenutil: ^5.9.3
+  intl: ^0.20.2
+  permission_handler: ^12.0.0+1
+  gap: ^3.0.1
+  pin_code_fields: ^8.0.1
+  searchfield: ^1.3.2
+  connectivity_plus: ^6.1.4
+  path_provider: ^2.1.5
+  flutter_spinkit: ^5.2.1
+  flutter_localization: ^0.3.2
+  open_filex: ^4.7.0
+  url_launcher: ^6.3.1
+  ntp: ^2.0.0
+  flutter_dotenv: ^5.2.1
+  device_info_plus: ^11.5.0
+  lottie: ^3.3.1
+  get_it: ^8.0.3
+  flutter_local_notifications: ^19.3.0
+  timezone: ^0.10.0
+  uuid: ^4.5.1
+  flutter_secure_storage: ^9.2.4
+  pdf: ^3.11.3
+  printing: ^5.14.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  change_package_name: ^1.1.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - lib/l10n/
+    - .env.dev
+    - .env.prod
+    - lib/l10n/
+    - assets/lottie/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins_Thin_250.ttf
+          weight: 100
+        - asset: assets/fonts/Poppins_Thin_Italic_250.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/Poppins_ExtraLight_275.ttf
+          weight: 200
+        - asset: assets/fonts/Poppins_ExtraLight_Italic_275.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/Poppins_Light_300.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins_Light_Italic_300.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Poppins_Regular_400.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins_Italic_400.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/Poppins_Medium_500.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins_Medium_Italic_500.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins_SemiBold_600.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins_SemiBold_Italic_600.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/Poppins_Bold_700.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins_Bold_Italic_700.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/Poppins_ExtraBold_800.ttf
+          weight: 800
+        - asset: assets/fonts/Poppins_ExtraBold_Italic_800.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/Poppins_Black_900.ttf
+          weight: 900
+        - asset: assets/fonts/Poppins_Black_Italic_900.ttf
+          weight: 900
+          style: italic
