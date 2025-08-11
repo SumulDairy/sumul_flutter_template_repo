@@ -1,4 +1,4 @@
-<!-- # 🧭 sumul_hr
+<!-- # 🧭 sumul_template
 
 A modern, scalable Flutter app built for **Sumul**'s internal agents. Designed for high performance, responsive UI, and real-world usage — using GetX architecture, localization, secure API integration, and full environment support.
 
