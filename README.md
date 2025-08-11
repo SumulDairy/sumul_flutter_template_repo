@@ -6,7 +6,7 @@ A modern, scalable Flutter app built for **Sumul**'s internal agents. Designed f
 
 ## 📱 Overview
 
-**sumul_hr** is a full-featured mobile app for agent-based operations such as login, vehicle attendance, file handling, time-syncing, and data reporting. It includes responsive design, offline storage, secure API headers, localization, and elegant UI animations.
+**sumul_template** is a full-featured mobile app for agent-based operations such as login, vehicle attendance, file handling, time-syncing, and data reporting. It includes responsive design, offline storage, secure API headers, localization, and elegant UI animations.
 
 ---
 
@@ -252,7 +252,7 @@ A modern, scalable Flutter app built for **Sumul**'s internal agents. Designed f
 
 ## 📱 Overview
 
-**sumul_hr** is a full-featured mobile app for agent-based operations such as login, vehicle attendance, file handling, time-syncing, and data reporting. It includes responsive design, offline storage, secure API headers, localization, and elegant UI animations.
+**sumul_template** is a full-featured mobile app for agent-based operations such as login, vehicle attendance, file handling, time-syncing, and data reporting. It includes responsive design, offline storage, secure API headers, localization, and elegant UI animations.
 
 ---
 
